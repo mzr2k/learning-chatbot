@@ -8,6 +8,3 @@ Features:
 - Allows users to contribute new questions and answers to expand the knowledge base.
 - Provides a simple command-line interface for interaction.
 
----
-
-Feel free to adjust the description to better fit your project or add any additional details you think are relevant!
